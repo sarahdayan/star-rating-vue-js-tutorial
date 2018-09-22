@@ -9,7 +9,8 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "vue": "^2.5.17"
+    "vue": "^2.5.17",
+    "vue-awesome": "^3.1.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.1",
