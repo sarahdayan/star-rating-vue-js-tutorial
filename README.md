@@ -1,26 +1,51 @@
-# star-rating-system-with-vue-js2
+# Star Rating Vue.js Tutorial 🌟
 
-## Project setup
-```
+The project of the tutorial [Unit Test Your First Vue.js Component](https:frontstuff.io/unit-test-your-first-vuejs-component) on [fronstuff.io](https://frontstuff.io).
+
+This projects requires [Node.js](https://nodejs.org/en/).
+
+See branch `tests` for unit tests.
+
+## Installation
+
+To install the project, run the following command in your terminal:
+
+```sh
+npm install
+# or
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
-```
-yarn run serve
+
+```sh
+npm run serve
+# or
+yarn serve
 ```
 
 ### Compiles and minifies for production
-```
-yarn run build
+
+```sh
+npm run build
+# or
+yarn build
 ```
 
 ### Lints and fixes files
-```
-yarn run lint
+
+```sh
+npm run lint
+# or
+yarn lint
 ```
 
 ### Run your unit tests
-```
-yarn run test:unit
+
+**Only on branch `tests`.**
+
+```sh
+npm run test:unit
+# or
+yarn test:unit
 ```
