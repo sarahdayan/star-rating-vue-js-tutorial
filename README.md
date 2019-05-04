@@ -1,6 +1,6 @@
 # Star Rating Vue.js Tutorial 🌟
 
-The project of the tutorial [Unit Test Your First Vue.js Component](https://frontstuff.io/unit-test-your-first-vuejs-component) on [fronstuff.io](https://frontstuff.io).
+The project of the tutorial [Unit Test Your First Vue.js Component](https://frontstuff.io/unit-test-your-first-vuejs-component) on [fronstuff.io](https://frontstuff.io). You can preview the project [here](https://star-rating-vue-js-tutorial.netlify.com/).
 
 This projects requires [Node.js](https://nodejs.org/en/).
 
