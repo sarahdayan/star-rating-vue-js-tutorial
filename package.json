@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "2.5.17",
-    "vue-awesome": "3.1.2"
+    "vue-awesome": "3.5.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "3.0.1",
